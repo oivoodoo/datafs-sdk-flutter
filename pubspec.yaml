@@ -1,0 +1,8 @@
+name: datafs_sdk
+description: Flutter tracking SDK for a self-hosted DataFS install.
+version: 0.1.0
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dev_dependencies:
+  test: ^1.25.0
